@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
-	"proxy/services"
-	"proxy/utils"
+	"./services"
+	"./utils"
 
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )

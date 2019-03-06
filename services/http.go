@@ -5,7 +5,7 @@ import (
 	"io"
 	"log"
 	"net"
-	"proxy/utils"
+	"../utils"
 	"runtime/debug"
 	"strconv"
 )

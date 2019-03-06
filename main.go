@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 	"os/signal"
-	"proxy/services"
+	"./services"
 	"syscall"
 )
 

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 	"net"
-	"proxy/utils"
+	"../utils"
 	"strconv"
 	"sync"
 	"time"
